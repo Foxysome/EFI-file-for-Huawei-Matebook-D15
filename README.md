@@ -1,1 +1,4 @@
 # EFI-file-for-Huawei-Matebook-D15
+This is just the standalone EFI file i used to install MacOS Ventura.
+Please change the SMBios.
+The used SMBios was MacbookPro16,3. Heres how to do it: https://www.youtube.com/watch?v=8MsueH5EouQ
